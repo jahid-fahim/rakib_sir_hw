@@ -1,0 +1,29 @@
+.header{
+    background-color: #A6C36E;
+    height: 90px;
+    border-radius: 4px;
+    padding: 10px ;
+    color: white;
+}
+.main{
+    background-color: #F9F8F9;
+    padding: 10px;
+    /* margin: 10px; */
+}
+input[type="text"],
+input[type="email"],
+textarea{
+    width: 96%;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+input[type="submit"]{
+    width: 80px;
+    background-color: #A6C36E;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: white;
+}
